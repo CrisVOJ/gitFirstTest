@@ -7,6 +7,10 @@ def resta(a, b):
 def multiplicacion(a, b):
     print(f'Multiplicacion: {a} x {b} = {a*b}')
 
+def division(a, b):
+    print(f'Division: {a} / {b} = {a/b}')
+
 suma(1, 2)
 resta(1, 2)
 multiplicacion(1, 2)
+division(1, 2)
